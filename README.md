@@ -1,4 +1,4 @@
-# ANSI NFO Viewer Widget  
+# ANSI NFO Viewer — Custom Widgets Package (.cwp)
 *A lightweight HTML5 widget for viewing classic `.NFO` files encoded in CP437, faithfully rendered in DEMOSCENE style.*
 
 ## Overview
